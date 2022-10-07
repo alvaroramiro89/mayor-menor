@@ -34,7 +34,7 @@ namespace mayor_menor
                     min = lista[i];
 
             }
-            MessageBox.Show("Número menor " + min + "Número mayor " + max );
+            MessageBox.Show("El numero más chico que subiste es: " + min + " y el más alto es: " + max );
 
 
 
