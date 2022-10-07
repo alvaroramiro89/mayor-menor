@@ -1,0 +1,17 @@
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\bin\Debug\net6.0-windows\mayor-menor.exe
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\bin\Debug\net6.0-windows\mayor-menor.deps.json
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\bin\Debug\net6.0-windows\mayor-menor.runtimeconfig.json
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\bin\Debug\net6.0-windows\mayor-menor.dll
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\bin\Debug\net6.0-windows\mayor-menor.pdb
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor_menor.Form1.resources
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.csproj.GenerateResource.cache
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.AssemblyInfoInputs.cache
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.AssemblyInfo.cs
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.dll
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\refint\mayor-menor.dll
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.pdb
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\mayor-menor.genruntimeconfig.cache
+C:\Users\alvar\source\repos\mayor-menor\mayor-menor\obj\Debug\net6.0-windows\ref\mayor-menor.dll
